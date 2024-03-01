@@ -1,6 +1,6 @@
 {
-  "name": "capacitor-plugin-touch-event",
-  "version": "0.0.18",
+  "name": "capacitor-plugin-event",
+  "version": "0.0.20",
   "description": "This plugin will be used as a tutorial on how to create custom Capacitor plugins for native applications",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/capacitor-plugin-video-demo.git.git"
+    "url": "git+https://github.com/UpwaleTech/capacitor-plugin-event.git.git"
   },
   "bugs": {
-    "url": "https://github.com/ionic-team/capacitor-plugin-video-demo.git/issues"
+    "url": "https://github.com/UpwaleTech/capacitor-plugin-event.git/issues"
   },
   "keywords": [
     "capacitor",

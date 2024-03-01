@@ -1,2 +1,2 @@
-# capacitor-plugin-touch-event
+# capacitor-plugin-event
  
