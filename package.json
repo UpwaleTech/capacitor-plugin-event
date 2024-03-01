@@ -1,6 +1,6 @@
 {
   "name": "capacitor-plugin-event",
-  "version": "0.0.20",
+  "version": "0.0.21",
   "description": "This plugin will be used as a tutorial on how to create custom Capacitor plugins for native applications",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
